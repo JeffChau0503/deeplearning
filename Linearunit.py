@@ -1,7 +1,7 @@
 from Perceptron import Perceptron
 
 
-def f(x):  # 定义激活函数
+def f(x):  # 定义激活函数,f(x)=x
     return x
 
 

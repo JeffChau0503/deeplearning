@@ -28,7 +28,7 @@ def train_linear_unit():
 
 if __name__ == '__main__':
     linear_unit = train_linear_unit()
-    #  答应训练获得的权重
+    #  打印训练获得的权重
     print(linear_unit)
     #  测试
     print('work 3.4 years, monthly salary = %.2f' % linear_unit.predict([3.4]))
