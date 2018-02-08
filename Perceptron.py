@@ -26,7 +26,7 @@ class Perceptron(object):  # 感知器
         #  变成[(x1,w1),(x2,w2),(x3,w3),...]
         #  然后利用map函数计算[x1*w1,x2*w2,x3*w3]
         #  最后利用reduce求和
-        from functools import reduce  # 从fucntools模块中引用
+        from functools import reduce  # 先把reduce从functools模块中调用出来
         return self.activator(
             reduce(lambda a, b: a+b,
                    [x_w[0] * x_w[1] for x_w in zip(input_vec, self.weights)], 0.0) + self.bias)

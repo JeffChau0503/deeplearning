@@ -2,8 +2,426 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87d2090d-4511-44b0-908c-fba2f26dc97c" name="Default" comment="修改了2to3 的语法问题">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Connection.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy-1.14.0.dist-info/DESCRIPTION.rst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy-1.14.0.dist-info/INSTALLER" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy-1.14.0.dist-info/METADATA" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy-1.14.0.dist-info/RECORD" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy-1.14.0.dist-info/WHEEL" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy-1.14.0.dist-info/metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy-1.14.0.dist-info/top_level.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/.libs/libopenblas.BNVRK7633HSX7YVO2TADGR4A5KEKXJAW.gfortran-win_amd64.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/__config__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_distributor_init.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_globals.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_import_tools.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/add_newdocs.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/compat/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/compat/_inspect.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/compat/py3k.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/compat/setup.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/conftest.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_dummy.cp36-win_amd64.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_internal.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_methods.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/arrayprint.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/cversions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/defchararray.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/einsumfunc.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/fromnumeric.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/function_base.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/generate_numpy_api.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/getlimits.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/__multiarray_api.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/__ufunc_api.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/_neighborhood_iterator_imp.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/_numpyconfig.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/arrayobject.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/arrayscalars.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/halffloat.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/multiarray_api.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/ndarrayobject.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/ndarraytypes.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/noprefix.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/npy_1_7_deprecated_api.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/npy_3kcompat.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/npy_common.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/npy_cpu.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/npy_endian.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/npy_interrupt.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/npy_math.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/npy_no_deprecated_api.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/npy_os.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/numpyconfig.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/old_defines.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/oldnumeric.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/ufunc_api.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/ufuncobject.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/utils.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/info.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/lib/npy-pkg-config/mlib.ini" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/lib/npy-pkg-config/npymath.ini" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/lib/npymath.lib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/machar.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/memmap.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/multiarray.cp36-win_amd64.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/multiarray_tests.cp36-win_amd64.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/numeric.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/numerictypes.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/operand_flag_tests.cp36-win_amd64.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/records.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/setup.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/setup_common.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/shape_base.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/struct_ufunc_test.cp36-win_amd64.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/test_rational.cp36-win_amd64.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/data/astype_copy.pkl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/data/recarray_from_file.fits" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_abc.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_api.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_arrayprint.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_datetime.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_defchararray.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_deprecations.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_dtype.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_einsum.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_errstate.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_extint128.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_function_base.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_getlimits.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_half.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_indexerrors.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_indexing.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_item_selection.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_longdouble.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_machar.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_mem_overlap.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_memmap.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_multiarray.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_nditer.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_numeric.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_numerictypes.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_print.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_records.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_regression.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_scalar_ctors.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_scalarinherit.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_scalarmath.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_scalarprint.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_shape_base.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_ufunc.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_umath.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_umath_complex.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_unicode.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/umath.cp36-win_amd64.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/umath_tests.cp36-win_amd64.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ctypeslib.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/__config__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/__version__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/ccompiler.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/autodist.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/bdist_rpm.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/build.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/build_clib.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/build_ext.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/build_py.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/build_scripts.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/build_src.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/config.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/config_compiler.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/develop.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/egg_info.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/install.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/install_clib.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/install_data.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/install_headers.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/sdist.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/compat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/conv_template.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/core.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/cpuinfo.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/environment.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/exec_command.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/extension.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/absoft.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/compaq.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/g95.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/gnu.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/hpux.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/ibm.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/intel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/lahey.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/mips.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/nag.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/none.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/pathf95.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/pg.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/sun.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/vast.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/from_template.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/info.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/intelccompiler.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/lib2def.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/line_endings.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/log.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/mingw/gfortran_vs2003_hack.c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/mingw32ccompiler.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/misc_util.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/msvc9compiler.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/msvccompiler.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/npy_pkg_config.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/numpy_distribution.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/pathccompiler.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/setup.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/system_info.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/tests/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/tests/test_exec_command.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/tests/test_fcompiler_gnu.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/tests/test_fcompiler_intel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/tests/test_fcompiler_nagfor.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/tests/test_misc_util.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/tests/test_npy_pkg_config.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/tests/test_system_info.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/unixccompiler.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/doc/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/doc/basics.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/doc/broadcasting.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/doc/byteswapping.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/doc/constants.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/doc/creation.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/doc/glossary.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/doc/indexing.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/doc/internals.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/doc/misc.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/doc/structured_arrays.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/doc/subclassing.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/doc/ufuncs.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/dual.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/__main__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/__version__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/auxfuncs.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/capi_maps.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/cb_rules.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/cfuncs.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/common_rules.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/crackfortran.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/diagnose.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/f2py2e.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/f2py_testing.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/f90mod_rules.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/func2subr.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/info.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/rules.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/setup.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/src/fortranobject.c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/src/fortranobject.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/src/array_from_pyobj/wrapmodule.c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/src/assumed_shape/.f2py_f2cmap" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/src/assumed_shape/foo_free.f90" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/src/assumed_shape/foo_mod.f90" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/src/assumed_shape/foo_use.f90" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/src/assumed_shape/precision.f90" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/src/common/block.f" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/src/kind/foo.f90" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/src/mixed/foo.f" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/src/mixed/foo_fixed.f90" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/src/mixed/foo_free.f90" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/src/parameter/constant_both.f90" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/src/parameter/constant_compound.f90" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/src/parameter/constant_integer.f90" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/src/parameter/constant_non_compound.f90" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/src/parameter/constant_real.f90" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/src/regression/inout.f90" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/src/size/foo.f90" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/src/string/char.f90" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_array_from_pyobj.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_assumed_shape.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_block_docstring.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_callback.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_common.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_kind.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_mixed.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_parameter.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_regression.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_return_character.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_return_complex.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_return_integer.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_return_logical.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_return_real.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_size.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_string.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/util.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/use_rules.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/fft/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/fft/fftpack.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/fft/fftpack_lite.cp36-win_amd64.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/fft/helper.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/fft/info.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/fft/setup.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/fft/tests/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/fft/tests/test_fftpack.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/fft/tests/test_helper.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/_datasource.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/_iotools.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/_version.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/arraypad.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/arraysetops.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/arrayterator.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/financial.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/format.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/function_base.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/index_tricks.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/info.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/mixins.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/nanfunctions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/npyio.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/polynomial.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/recfunctions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/scimath.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/setup.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/shape_base.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/stride_tricks.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/data/py2-objarr.npy" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/data/py2-objarr.npz" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/data/py3-objarr.npy" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/data/py3-objarr.npz" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/data/python3.npy" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/data/win64python2.npy" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test__datasource.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test__iotools.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test__version.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_arraypad.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_arraysetops.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_arrayterator.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_financial.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_format.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_function_base.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_index_tricks.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_io.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_mixins.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_nanfunctions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_packbits.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_polynomial.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_recfunctions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_regression.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_shape_base.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_stride_tricks.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_twodim_base.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_type_check.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_ufunclike.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_utils.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/twodim_base.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/type_check.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/ufunclike.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/user_array.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/utils.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/_umath_linalg.cp36-win_amd64.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/info.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/lapack_lite.cp36-win_amd64.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/linalg.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/setup.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/tests/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/tests/test_build.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/tests/test_deprecations.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/tests/test_linalg.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/tests/test_regression.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/bench.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/core.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/extras.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/mrecords.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/setup.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/tests/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/tests/test_core.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/tests/test_deprecations.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/tests/test_extras.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/tests/test_mrecords.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/tests/test_old_ma.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/tests/test_regression.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/tests/test_subclassing.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/testutils.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/timer_comparison.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/version.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/matlib.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/matrixlib/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/matrixlib/defmatrix.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/matrixlib/setup.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/matrixlib/tests/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/matrixlib/tests/test_defmatrix.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/matrixlib/tests/test_multiarray.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/matrixlib/tests/test_numeric.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/matrixlib/tests/test_regression.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/_polybase.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/chebyshev.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/hermite.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/hermite_e.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/laguerre.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/legendre.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/polynomial.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/polyutils.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/setup.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/tests/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/tests/test_chebyshev.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/tests/test_classes.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/tests/test_hermite.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/tests/test_hermite_e.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/tests/test_laguerre.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/tests/test_legendre.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/tests/test_polynomial.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/tests/test_polyutils.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/tests/test_printing.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/info.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/mtrand.cp36-win_amd64.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/randomkit.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/setup.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/tests/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/tests/test_random.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/tests/test_regression.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/setup.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/decorators.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/nose_tools/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/nose_tools/decorators.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/nose_tools/noseclasses.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/nose_tools/nosetester.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/nose_tools/parameterized.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/nose_tools/utils.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/noseclasses.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/nosetester.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/print_coercion_tables.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/setup.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/tests/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/tests/test_decorators.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/tests/test_doctesting.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/tests/test_utils.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/utils.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/tests/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/tests/test_ctypeslib.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/tests/test_matlib.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/tests/test_numpy_version.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/tests/test_reloading.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/tests/test_scripts.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/tests/test_warnings.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/version.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/f2py.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Perceptron.py" afterPath="$PROJECT_DIR$/Perceptron.py" />
+      <change beforePath="$PROJECT_DIR$/and_fcn_DL.py" afterPath="$PROJECT_DIR$/and_fcn_DL.py" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +432,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Perceptron.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Perceptron.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Perceptron.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="17" column="69" lean-forward="true" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
+            <state relative-caret-position="608">
+              <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -27,8 +445,30 @@
       <file leaf-file-name="and_fcn_DL.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/and_fcn_DL.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-625">
-              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            <state relative-caret-position="1152">
+              <caret line="36" column="25" lean-forward="false" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Layer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Layer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Connection.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Connection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -57,6 +497,16 @@
         <option value="$PROJECT_DIR$/P.py" />
         <option value="$PROJECT_DIR$/and_fcn_DL.py" />
         <option value="$PROJECT_DIR$/Perceptron.py" />
+        <option value="$PROJECT_DIR$/../Helloworld/字符串逐字输出.py" />
+        <option value="$PROJECT_DIR$/LinearRegression.py" />
+        <option value="$PROJECT_DIR$/ExpectedSalary.py" />
+        <option value="$PROJECT_DIR$/Linearunit.py" />
+        <option value="$PROJECT_DIR$/../Helloworld/test.py" />
+        <option value="$PROJECT_DIR$/../Helloworld/Node.py" />
+        <option value="$PROJECT_DIR$/Node.py" />
+        <option value="$PROJECT_DIR$/ConstNode.py" />
+        <option value="$PROJECT_DIR$/Layer.py" />
+        <option value="$PROJECT_DIR$/Connection.py" />
       </list>
     </option>
   </component>
@@ -83,6 +533,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,12 +545,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/P.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Layer.py" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -113,7 +563,79 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.and_fcn_DL">
+  <component name="RunManager" selected="Python.Layer">
+    <configuration name="ExpectedSalary" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\clutter\deeplearning\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="deeplearning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExpectedSalary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Layer" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\clutter\deeplearning\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="deeplearning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Layer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Linearunit" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\clutter\deeplearning\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="deeplearning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linearunit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Node" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\clutter\deeplearning\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="deeplearning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Node.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Perceptron" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,28 +672,32 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="p" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="F:\clutter\deeplearning\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/WeChat Files/Jeff_Chau/Files" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="deeplearning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/WeChat Files/Jeff_Chau/Files/test1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Python.p" />
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Python.test" />
       <item index="1" class="java.lang.String" itemvalue="Python.Perceptron" />
       <item index="2" class="java.lang.String" itemvalue="Python.and_fcn_DL" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Node" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Layer" />
+      <item index="5" class="java.lang.String" itemvalue="Python.Linearunit" />
+      <item index="6" class="java.lang.String" itemvalue="Python.ExpectedSalary" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -195,24 +721,73 @@
       <option name="project" value="LOCAL" />
       <updated>1517511944386</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改了2to3 的语法问题">
+      <created>1517512098718</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1517512098718</updated>
+    </task>
+    <task id="LOCAL-00003" summary="线性单元代码及其预测薪水的粒子">
+      <created>1517840037421</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1517840037421</updated>
+    </task>
+    <task id="LOCAL-00004" summary="修改了显示错误">
+      <created>1517843730286</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1517843730286</updated>
+    </task>
+    <task id="LOCAL-00005" summary="添加注释">
+      <created>1517844282343</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1517844282343</updated>
+    </task>
+    <task id="LOCAL-00006" summary="节点">
+      <created>1518018374658</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1518018374659</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ConstNode对象，为了实现一个输出恒为1的节点(计算偏置项时需要)">
+      <created>1518101667384</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1518101667384</updated>
+    </task>
+    <task id="LOCAL-00008" summary="负责初始化一层。此外，作为Node的集合对象，提供对Node集合的操作。">
+      <created>1518104777794</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1518104777795</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22786178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2613391" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3890215" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3890215" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39976135" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39976135" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -248,7 +823,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改了2to3 的语法问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改了2to3 的语法问题" />
+    <MESSAGE value="线性单元代码及其预测薪水的粒子" />
+    <MESSAGE value="修改了显示错误" />
+    <MESSAGE value="添加注释" />
+    <MESSAGE value="节点" />
+    <MESSAGE value="ConstNode对象，为了实现一个输出恒为1的节点(计算偏置项时需要)" />
+    <MESSAGE value="负责初始化一层。此外，作为Node的集合对象，提供对Node集合的操作。" />
+    <option name="LAST_COMMIT_MESSAGE" value="负责初始化一层。此外，作为Node的集合对象，提供对Node集合的操作。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -259,7 +840,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -276,9 +857,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-          <folding>
-            <element signature="e#22#32#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -286,23 +864,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="896">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/P.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/P.py" />
     <entry file="file://F:/python/Scripts/pip-script.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -318,9 +887,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-          <folding>
-            <element signature="e#22#32#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -328,23 +894,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="896">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/P.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/P.py" />
     <entry file="file://F:/python/Scripts/pip-script.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -360,9 +917,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-          <folding>
-            <element signature="e#22#32#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -370,18 +924,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/P.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/P.py" />
     <entry file="file://$PROJECT_DIR$/Perceptron.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -394,18 +940,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/P.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/P.py" />
     <entry file="file://$PROJECT_DIR$/Perceptron.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -418,18 +956,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/P.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/P.py" />
     <entry file="file://$PROJECT_DIR$/Perceptron.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1088">
@@ -442,7 +972,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="704">
           <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -458,7 +987,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -476,20 +1004,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py" />
     <entry file="file://$PROJECT_DIR$/B.py" />
     <entry file="file://$PROJECT_DIR$/A.py" />
     <entry file="file://F:/python/Scripts/pip-script.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -497,64 +1018,107 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/and_fcn_DL.py.bak" />
+    <entry file="file://$PROJECT_DIR$/Perceptron.py.bak" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/Jeff_Chau/Files/P.py" />
+    <entry file="file://$PROJECT_DIR$/P.py.bak" />
+    <entry file="file://$PROJECT_DIR$/P.py" />
+    <entry file="file://$PROJECT_DIR$/../Helloworld/字符串逐字输出.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Helloworld/PigLatin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExpectedSalary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="23" column="42" lean-forward="false" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linearunit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/Jeff_Chau/Files/test1.py" />
+    <entry file="file://$PROJECT_DIR$/../Reforcementlearing/No.1.py" />
+    <entry file="file://$PROJECT_DIR$/../Reforcementlearing/Lesson1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Helloworld/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Helloworld/Node.py" />
+    <entry file="file://$PROJECT_DIR$/ConstNode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="true" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
           <folding>
-            <element signature="e#22#32#0" expanded="false" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/and_fcn_DL.py.bak">
+    <entry file="file://$PROJECT_DIR$/Perceptron.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Perceptron.py.bak">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-275">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/Jeff_Chau/Files/P.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P.py.bak">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="102" column="4" lean-forward="false" selection-start-line="102" selection-start-column="4" selection-end-line="102" selection-end-column="4" />
+        <state relative-caret-position="608">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/and_fcn_DL.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-625">
-          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        <state relative-caret-position="1152">
+          <caret line="36" column="25" lean-forward="false" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Perceptron.py">
+    <entry file="file://$PROJECT_DIR$/Layer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="17" column="69" lean-forward="true" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
+        <state relative-caret-position="64">
+          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -35,7 +35,6 @@ if __name__ == '__main__':
     and_perception = train_and_perceptron()
     # 打印训练获得的权重
     print(and_perception)
-
     # 测试
     print(('1 and 1 = %d' % and_perception.predict([1, 1])))
     print(('0 and 0 = %d' % and_perception.predict([0, 0])))
